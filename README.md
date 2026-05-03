@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Rushikesh Gurav , I have completed B.Tech in Computer science and Engineering from College of Engineering Dharashiv.<br>After Completed my B.Tech I have completed Industrial Training , after that I have completed Java Backend developer internship at ThynkTech India.<br>Apart that I have completed saverial projects like, Traffic_Challan , AI Resume Analyzer.
+I am Rushikesh Gurav , I have completed B.Tech in Computer science and Engineering from College of Engineering Dharashiv.<br>After Completed my B.Tech I have completed Industrial Training , after that I have completed Java Backend developer internship at ThynkTech India.Apart that I have completed saveral projects like, Traffic_Challan , AI Resume Analyzer. <br>In Traffic Challan I used React for Frontend , Springboot for Backend and Postgresql for Database. I created 3 dashboard Admin, Police, User, this is a user specific login porject.
 
 
 ## 🌐 Socials:
