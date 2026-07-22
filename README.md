@@ -1,5 +1,31 @@
-# 💫 About Me:
-I am Rushikesh Gurav , I have completed B.Tech in Computer science and Engineering from College of Engineering Dharashiv.<br>After Completed my B.Tech I have completed Industrial Training , after that I have completed Java Backend developer internship at ThynkTech India.Apart that I have completed saveral projects like, Traffic_Challan , AI Resume Analyzer. <br>In Traffic Challan I used React for Frontend , Springboot for Backend and Postgresql for Database. I created 3 dashboards Admin, Police, User, this is a user specific project.
+# 💫 About Me
+
+I am **Rushikesh Gurav**, a B.Tech graduate in **Computer Science and Engineering** from the **College of Engineering, Dharashiv**.
+
+After completing my graduation, I successfully completed Industrial Training, followed by a **Java Backend Developer Internship** at **ThynkTech India**, where I gained hands-on experience in Java, Spring Boot, REST APIs, and backend development.
+
+I am the **Founder & Full Stack Developer at MindNex Technologies**, where I develop modern, scalable, and business-oriented software solutions. I work across the complete software development lifecycle, including requirement analysis, UI/UX design, frontend and backend development, database design, deployment, and maintenance.
+
+I have developed **2 desktop applications**, **3 professional business websites**, and several full-stack web applications. My notable projects include:
+
+### Desktop Applications
+
+* **Billing & Inventory Management System (Kale-Shitole)** – A desktop application for managing billing, inventory, GST invoices, customer records, and sales reports.
+* **Sugarcane Supplier Management System** – A desktop software solution for managing sugarcane suppliers, procurement records, farmer details, transactions, and reporting.
+
+### Full-Stack Web Applications
+
+* **Traffic Challan Management System** – Developed using **React.js**, **Spring Boot**, and **PostgreSQL**, featuring secure authentication and role-based dashboards for **Admin, Police, and User**.
+* **AI Resume Analyzer** – A full-stack application that analyzes resumes and provides ATS-based feedback and improvement suggestions.
+
+### Professional Websites
+
+* **MindNex Technologies** – https://www.mindnextechnologies.com
+* **Vision RMC** – https://www.visionrmc.com
+* Developed another responsive business website for a client as part of my freelance and startup work.
+
+I am passionate about building scalable, secure, and user-friendly software solutions while continuously improving my technical skills. My goal is to grow as a **Full Stack Java Developer** and **Technology Entrepreneur**, creating innovative software that solves real-world business challenges.
+
 
 
 ## 🌐 Socials:
